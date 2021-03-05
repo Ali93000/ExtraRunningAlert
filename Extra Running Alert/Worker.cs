@@ -47,7 +47,7 @@ namespace Extra_Running_Alert
             _logger.LogInformation("Task Run");
             // Logic
             PlayBeforSalah(res);
-            PlayAzan(res);
+            PlayAzan(res); 
             PlayAfterAzan25Minutes(res);
             PlayAfterAzan30Minutes(res);
             PlayMidnight(res);
