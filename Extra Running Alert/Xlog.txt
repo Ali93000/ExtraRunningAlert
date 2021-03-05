@@ -1,0 +1,29 @@
+2021-03-05 21:16:46.383 +03:00 [DBG] Hosting starting
+2021-03-05 21:16:46.513 +03:00 [INF] Start processing HTTP request GET "http://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=SaudiArabia&method=8"
+2021-03-05 21:16:46.523 +03:00 [INF] Sending HTTP request GET "http://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=SaudiArabia&method=8"
+2021-03-05 21:16:47.876 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-05 21:16:47.878 +03:00 [INF] Hosting environment: Development
+2021-03-05 21:16:47.879 +03:00 [INF] Content root path: D:\Git Repo\Extra Running Alert\Extra Running Alert\Extra Running Alert
+2021-03-05 21:16:47.880 +03:00 [DBG] Hosting started
+2021-03-05 21:16:48.640 +03:00 [INF] Received HTTP response headers after 2112.2342ms - 200
+2021-03-05 21:16:48.644 +03:00 [INF] End processing HTTP request after 2145.7322ms - 200
+2021-03-05 21:16:48.918 +03:00 [INF] Task Run
+2021-03-05 21:16:48.924 +03:00 [INF] Task End
+2021-03-05 21:16:48.925 +03:00 [INF] ---------------------------------------------
+2021-03-05 21:17:08.936 +03:00 [INF] Start processing HTTP request GET "http://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=SaudiArabia&method=8"
+2021-03-05 21:17:08.938 +03:00 [INF] Sending HTTP request GET "http://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=SaudiArabia&method=8"
+2021-03-05 21:17:09.146 +03:00 [INF] Received HTTP response headers after 207.7465ms - 200
+2021-03-05 21:17:09.147 +03:00 [INF] End processing HTTP request after 211.4142ms - 200
+2021-03-05 21:17:09.149 +03:00 [INF] Task Run
+2021-03-05 21:17:09.150 +03:00 [INF] Task End
+2021-03-05 21:17:09.150 +03:00 [INF] ---------------------------------------------
+2021-03-05 21:17:29.155 +03:00 [INF] Start processing HTTP request GET "http://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=SaudiArabia&method=8"
+2021-03-05 21:17:29.158 +03:00 [INF] Sending HTTP request GET "http://api.aladhan.com/v1/timingsByCity?city=Riyadh&country=SaudiArabia&method=8"
+2021-03-05 21:17:29.354 +03:00 [INF] Received HTTP response headers after 196.4617ms - 200
+2021-03-05 21:17:29.356 +03:00 [INF] End processing HTTP request after 201.9491ms - 200
+2021-03-05 21:17:29.358 +03:00 [INF] Task Run
+2021-03-05 21:17:29.358 +03:00 [INF] Task End
+2021-03-05 21:17:29.359 +03:00 [INF] ---------------------------------------------
+2021-03-05 21:17:31.108 +03:00 [INF] Application is shutting down...
+2021-03-05 21:17:31.112 +03:00 [DBG] Hosting stopping
+2021-03-05 21:17:31.187 +03:00 [DBG] Hosting stopped
